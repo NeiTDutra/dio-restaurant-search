@@ -69,4 +69,8 @@ Desenvolvimento de um sistema web de busca com React.js para encontrar restauran
 }
 ```
 
+## Deploy
+
+On line neste link => [help](https://cranky-shaw-fd62be.netlify.app/)
+
 :construction: ...em desenvolvimento... :construction:
